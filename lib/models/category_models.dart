@@ -34,7 +34,7 @@ class CategoryModel{
     categories.add(
         CategoryModel(
             name: 'Smoothies',
-            iconPath: 'assets/icons/diet.png',
+            iconPath: 'assets/icons/honey-pancakes.svg',
             boxColor: Color(0xffEEA4CE)
         )
     );
